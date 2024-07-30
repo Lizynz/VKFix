@@ -1,0 +1,10 @@
+Package: com.lizynz.vkfix.rootless
+Name: VKFix
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fixed crash applications VK on palera1n!
+SileoDepiction: https://lizynz.github.io/depictions/com.lizynz.vkfix/vkfix.json
+Maintainer: Lizynz
+Author: Lizynz
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
